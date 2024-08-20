@@ -2,4 +2,4 @@
 
 Meu nome é Ana 
 
--Estou estudando na Alura;
+- Estou estudando na Alura;
